@@ -1,0 +1,13 @@
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Produtos POO\AulaPOO-Projeto-de-Produtos\bin\Debug\netcoreapp3.1\AulaPOO-Projeto-de-Produtos.exe
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Produtos POO\AulaPOO-Projeto-de-Produtos\bin\Debug\netcoreapp3.1\AulaPOO-Projeto-de-Produtos.deps.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Produtos POO\AulaPOO-Projeto-de-Produtos\bin\Debug\netcoreapp3.1\AulaPOO-Projeto-de-Produtos.runtimeconfig.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Produtos POO\AulaPOO-Projeto-de-Produtos\bin\Debug\netcoreapp3.1\AulaPOO-Projeto-de-Produtos.runtimeconfig.dev.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Produtos POO\AulaPOO-Projeto-de-Produtos\bin\Debug\netcoreapp3.1\AulaPOO-Projeto-de-Produtos.dll
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Produtos POO\AulaPOO-Projeto-de-Produtos\bin\Debug\netcoreapp3.1\AulaPOO-Projeto-de-Produtos.pdb
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Produtos POO\AulaPOO-Projeto-de-Produtos\obj\Debug\netcoreapp3.1\AulaPOO-Projeto-de-Produtos.csprojAssemblyReference.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Produtos POO\AulaPOO-Projeto-de-Produtos\obj\Debug\netcoreapp3.1\AulaPOO-Projeto-de-Produtos.AssemblyInfoInputs.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Produtos POO\AulaPOO-Projeto-de-Produtos\obj\Debug\netcoreapp3.1\AulaPOO-Projeto-de-Produtos.AssemblyInfo.cs
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Produtos POO\AulaPOO-Projeto-de-Produtos\obj\Debug\netcoreapp3.1\AulaPOO-Projeto-de-Produtos.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Produtos POO\AulaPOO-Projeto-de-Produtos\obj\Debug\netcoreapp3.1\AulaPOO-Projeto-de-Produtos.dll
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Produtos POO\AulaPOO-Projeto-de-Produtos\obj\Debug\netcoreapp3.1\AulaPOO-Projeto-de-Produtos.pdb
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Produtos POO\AulaPOO-Projeto-de-Produtos\obj\Debug\netcoreapp3.1\AulaPOO-Projeto-de-Produtos.genruntimeconfig.cache
